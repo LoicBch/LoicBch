@@ -1,4 +1,3 @@
-### Hi there 👋
 ![MasterHead](https://github.com/LoicBch/LoicBch/blob/main/headerjpg.jpg?raw=true)
 
 <!--
