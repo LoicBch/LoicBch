@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/LoicBch/LoicBch/blob/main/headerjpg.jpg?raw=true)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1179330596&unique=true)(https://open.spotify.com/user/1179330596)
+![Alt text][!(https://spotify-recently-played-readme.vercel.app/api?user=1179330596&unique=true)](https://open.spotify.com/user/1179330596)
 
 <!--
 **LoicBch/LoicBch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
