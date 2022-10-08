@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/LoicBch/LoicBch/blob/main/headerjpg.jpg?raw=true)
 
-### <div align="center">I'm Loïc, a full-time native freelancenative mobile java/kotlin developer 👨‍💻 working remotely since 2016 🚀</div>  
+### <div align="center">I'm a full-time native freelancenative mobile java/kotlin developer 👨‍💻 working remotely since 2016 🚀</div>  
   
 
 - 🚐 I’m currently working on Park4night, a 6 million user vanlife application    
