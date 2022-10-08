@@ -18,6 +18,9 @@
 <br/>
 
 ## Some stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LoicBch&show_icons=true&theme=radical)
+
 <table><tr><td valign="top" width="50%">
 <!--START_SECTION:waka-->
 
