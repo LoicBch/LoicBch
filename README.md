@@ -49,7 +49,7 @@ Objective-C              1 repo              ████░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## My Skill Set  
+## Some tech i have used and learned
 <table><tr><td valign="top" width="50%">
 
 
