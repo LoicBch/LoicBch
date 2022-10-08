@@ -17,6 +17,8 @@
 
 <br/>
 
+## Some stats
+<table><tr><td valign="top" width="50%">
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
