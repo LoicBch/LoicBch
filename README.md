@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Kotlin multiplatform and jetpack compose  
   
 
-- 🧠 I'm passionate about software architecture, design pattern and clean code optimisation  
+- ❤️ I'm passionate about software architecture, design pattern and clean code optimisation  
   
 
 - ⚡ I'm open to  app project idea, dont hesitate to contact me  
