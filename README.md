@@ -20,7 +20,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
 **🐱 My GitHub Data** 
 
@@ -48,8 +47,6 @@ Objective-C              1 repo              ████░░░░░░░�
 
 ![Chart not found](https://raw.githubusercontent.com/LoicBch/LoicBch/main/charts/bar_graph.png) 
 
-
- Last Updated on 07/10/2022 18:55:26 UTC
 <!--END_SECTION:waka-->
 
 ## My Skill Set  
@@ -107,17 +104,5 @@ Objective-C              1 repo              ████░░░░░░░�
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=1179330596&unique=true)](https://open.spotify.com/user/1179330596)
-
+![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
