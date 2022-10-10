@@ -21,7 +21,7 @@
 
 <table><tr><td valign="top" width="50%">
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27%20Thousand%20lines%20of%20code-blue)
 
@@ -29,7 +29,7 @@
 
 > 🏆 44 Contributions in the Year 2022
  > 
-> 📦 32.4 kB Used in GitHub's Storage 
+> 📦 32.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +99,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LoicBch/LoicBch/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/10/2022 18:51:05 UTC
+ Last Updated on 10/10/2022 19:02:25 UTC
 <!--END_SECTION:waka-->
 
 ## Some tech i have used and learned
