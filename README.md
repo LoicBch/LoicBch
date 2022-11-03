@@ -95,7 +95,7 @@ JavaScript               1 repo              ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/LoicBch/LoicBch/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/11/2022 18:46:44 UTC
+ Last Updated on 03/11/2022 18:51:17 UTC
 <!--END_SECTION:waka-->
 
 ## Some tech i have used and learned
